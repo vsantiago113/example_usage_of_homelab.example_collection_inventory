@@ -1,0 +1,1 @@
+# example_usage_of_homelab.example_collection_inventory
