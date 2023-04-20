@@ -1,0 +1,6 @@
+---
+collections:
+  # Install a collection from a Git repo.
+  - name: https://github.com/vsantiago113/homelab.example_collection.git
+    type: git
+    version: main

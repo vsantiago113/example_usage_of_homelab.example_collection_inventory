@@ -1,0 +1,3 @@
+plugin: homelab.example_collection.example_inventory_plugin
+strict: false
+devices: 5
